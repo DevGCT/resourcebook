@@ -12,9 +12,9 @@ If you have got any problems viewing the webpage or any recomendations about it,
 
 Make sure to install the latest release version of node and npm in order to start contribute the webpage. 
 You also have to install Honkit using npm to build the gitbook page.
-```console
+``console
 npm init --yes
 npm install honkit --save-dev
-``
+```
 
 `
