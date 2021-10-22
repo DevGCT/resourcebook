@@ -16,5 +16,3 @@ You also have to install Honkit using npm to build the gitbook page.
 npm init --yes
 npm install honkit --save-dev
 ```
-
-`
